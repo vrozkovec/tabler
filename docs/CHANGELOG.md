@@ -1,5 +1,11 @@
 # @tabler/docs
 
+## 1.5.1 - 2026-09-06
+
+### Patch Changes
+
+- ac001f8: Updated `astro` to 7.3.1 and `@astrojs/vercel` to 11.0.10, and stopped installing optional peers such as `next`.
+
 ## 1.5.0 - 2026-09-05
 
 ### Minor Changes
